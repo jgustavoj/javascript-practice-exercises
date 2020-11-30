@@ -106,7 +106,7 @@
         {
             "slug": "08-Function-that-returns",
             "title": "08-Function-that-returns",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Function-that-returns",
             "translations": [
                 "es",
