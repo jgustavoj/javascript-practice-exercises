@@ -1,6 +1,6 @@
 var names = ['John', 'Kenny', 'Tom', "Bob", 'Dilan'];
 
-function sortNames(param){
+function sortNames(param) {
     return param.sort()
 }
 
