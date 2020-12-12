@@ -1,6 +1,10 @@
 {
     "port": 3000,
+<<<<<<< HEAD
     "address": "https://bf045fcd-9b82-4133-9f73-42a5128d9397.ws-us03.gitpod.io",
+=======
+    "address": "https://ea9ce19f-e774-4b3b-9bd1-645b19214153.ws-us03.gitpod.io",
+>>>>>>> a8434fde324709f7418c91af9d2e6e0099a55ad5
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -8,7 +12,11 @@
         "exercises": "./exercises",
         "output": ".learn/dist"
     },
+<<<<<<< HEAD
     "outputPath": "./.learn/dist",
+=======
+    "outputPath": "./.breathecode/dist",
+>>>>>>> a8434fde324709f7418c91af9d2e6e0099a55ad5
     "publicPath": "/preview",
     "grading": "isolated",
     "ignoreRegex": null,
